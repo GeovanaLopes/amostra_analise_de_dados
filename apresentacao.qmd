@@ -19,7 +19,10 @@ embed-resources: true
 - Escritor
 :::
 ::: {.column width="50%"}
-- GEO
+- Geovana L Batista
+- Graduada em Matemática(licenciatura). Atualmente cursando Estatística(bacharel) no IME-USP e Pós Graduação em Ciência de Dados pelo IFSP Campinas.
+- Cientista de Dados na Almap BBDO
+- Co-organizadora da R-Ladies São Paulo, uma comunidade que tem como objetivo promover a diversidade de gênero na comunidade da linguagem R.
 :::
 :::
 ## Pré-requisitos
